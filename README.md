@@ -5,6 +5,8 @@ Kisar is a decentralized financial DeFi 3.0 algorithm non-stable currency protoc
 
 Kisar uses the AI algorithm to ensure the generation and distribution of Kisar tokens 
 
+
+
 on the blockchain; Kisar introduces a complete DAO community incentive mechanism and 
 
 a fair transaction volume proof-of-work POT consensus mechanism to integrate a wider 
